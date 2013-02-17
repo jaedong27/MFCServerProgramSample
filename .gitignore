@@ -16,7 +16,7 @@
 Debug
 MFCServerProgramSample/Debug/
 ipch
-#*.suo
-#*.sdf
-#*.user
+*.suo
+*.sdf
+*.user
 
