@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# Visual Studio 2010 ignore
+Debug
+MFCServerProgramSample/Debug/
+ipch
+#*.suo
+#*.sdf
+#*.user
+
